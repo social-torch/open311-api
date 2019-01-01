@@ -2,18 +2,11 @@
 
 Schenectady's 311 system gives residents a central phone number and location to request city services, report non-emergency issues, and get updates on city work. Open311 provides greater access and transparency since it allows developers to build apps and websites on top of Schenectady's 311 system. Open311 is a REST-based Application Programmer Interface (API) that lets developers requests directly to 311 and also retrieve status on existing service requests.
 
+This was auto-generated from the swagger / opendata specification in this repository.
+
 **Version:** 2.0
 
 **License:** [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)
-
-### Security
----
-**api_key**  
-
-|apiKey|*API Key*|
-|---|---|
-|Name|api_key|
-|In|query|
 
 ### /services
 ---
